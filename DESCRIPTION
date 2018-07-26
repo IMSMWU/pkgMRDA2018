@@ -5,6 +5,5 @@ Version: 1.0
 Date: 2018-07-26
 Author: Daniel Winkler
 Maintainer: Daniel Winkler <daniel.winkler@wu.ac.at>
-Description: Generates the data used in the tutorial. See <http://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file> for details on how to write
-                   this part.
+Description: Generates the data used in the tutorial.
 License: GPL 3
