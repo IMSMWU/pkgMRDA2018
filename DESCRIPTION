@@ -3,7 +3,9 @@ Type: Package
 Title: Helper package for the MRDA2018 course
 Version: 1.0
 Date: 2018-07-26
-Author: Daniel Winkler
+Authors@R: c(
+  person("Peter", "Knaus", email = "peter.knaus@wu.ac.at", role = c("aut", "cre")),
+  person("Daniel", "Winkler", email = "daniel.winkler@wu.ac.at", role = c("aut")))
 Maintainer: Daniel Winkler <daniel.winkler@wu.ac.at>
 Description: Generates the data used in the tutorial.
 License: GPL 3
