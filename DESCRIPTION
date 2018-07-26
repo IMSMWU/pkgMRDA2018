@@ -1,10 +1,10 @@
 Package: MRDA2018
 Type: Package
-Title: What the Package Does Using Title Case
+Title: Helper package for the MRDA2018 course
 Version: 1.0
 Date: 2018-07-26
 Author: Daniel Winkler
-Maintainer: Daniel Winkler <your@email.com>
-Description: More details about what the package does. See <http://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file> for details on how to write
+Maintainer: Daniel Winkler 
+Description: Generates the data used in the tutorial. See <http://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file> for details on how to write
                    this part.
 License: GPL 3
